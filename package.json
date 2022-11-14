@@ -1,0 +1,18 @@
+{
+  "name": "imp-connect-provider",
+  "version": "1.0.0",
+  "description": "simply implement 'connect' function and 'Provider' component of react-redux.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekingin/imp-connect-provider"
+  },
+  "homepage": "https://github.com/ekingin",
+  "keywords": [
+    "react",
+    "redux",
+    "react-redux"
+  ],
+  "author": "ekingin",
+  "license": "MIT"
+}
